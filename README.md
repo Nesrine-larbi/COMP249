@@ -19,7 +19,7 @@ The projects within this repository are designed to reflect the learning outcome
 ## Technologies
 
 - **Language**: Java
-- **Development Environment**: Any IDE that supports Java, with examples primarily using [Eclipse](https://www.eclipse.org/ide/).
+- **Development Environment**: Any IDE that supports Java,
 
 ## Setup
 
